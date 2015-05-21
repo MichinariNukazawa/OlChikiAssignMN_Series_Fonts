@@ -1,16 +1,18 @@
-OlChikiAssignMN Series Fonts. イラスト・デザイン向けオル・チキ文字フォント
+OlChikiAssignMN Series Fonts
 ====
+イラスト・デザイン向けオル・チキ文字フォント
 
-##概要
+## 概要
 オル・チキ文字のフォントです。  
 イラストおよびデザイン向けに、簡単に使えるオル・チキ文字フォントとして作成しました。  
+商用可。  
+本フォントは[project daisy bell][pixiv_booth]によるフォント製品です。  
 
 ラテン・アルファベットの"A〜z"にオル・チキ文字を割り当ててあります。  
-ふつうの英文を用意し、このフォントを使うだけで、簡単にオル・チキで書かれた文章を"でっちあげる"ことができます。  
+ふつうの英文にこのフォントを使用することで、オル・チキ文字で書かれた文章をデザインに使用することがとても簡単になります。  
 
 フォントのデザインは[サンプル][ghpages_index]ページで見ることができます。  
-
-姉妹フォントに[RuneAssignMN_Series_Font][ghpages_index_RuneAssignMN_Series_Fonts]があります。  
+姉妹フォントに[RuneAMN_Series_Font][ghpages_index_RuneAssignMN_Series_Fonts]があります。  
 
 
 ##より専門的な説明
@@ -33,14 +35,17 @@ PQRSTUVWXYZ[¥]^_
 pqrstuvwxyz{|}‾  
 
 
-##フォントのライセンス
-おおまかな説明：  
+## License
+ 本フォント製品のライセンス  
+ 
  イラスト・デザインに使用する場合、自由に使うことができます。ただし、責任は使用者が負うこととします。  
  ライセンスは予告なく変更される場合があります  
- ライセンスについて、よくわからない場合は、気軽に作者へ[メール(michinari.nukazawa@gmail.com)][mailto]にて、お問い合わせください。  
 
- このフォントのライセンスは、姉妹フォントの[RuneAssignMN_Series_Font_free版][ghpages_index_RuneAssignMN_Series_Fonts]と同じです。  
+ 本フォント製品のライセンスは、姉妹フォントの[RuneAssignMN_Series_Font_free版][ghpages_index_RuneAssignMN_Series_Fonts]に準ずる  
+ (フォント名を読み替えてあとは等しい)ものとします。  
  ライセンスの詳細は、そちらをお読みください。  
+
+ ライセンスについて、よくわからない場合は、気軽に作者へ[メール(michinari.nukazawa@gmail.com)][mailto]にて、お問い合わせください。  
 
 ##スクリプト「svg_splitter.pl」について。
 本プロジェクトに含まれるスクリプト「svg_splitter.pl」は、
@@ -84,7 +89,7 @@ IllustraterABC TIPSページの補填記事のIllustraterの設定
 http://www.slowgun.org/abc/ts12.html
 
 
-##LICENCE About
+##LICENSE About
 Please read Japanese licence text.  
 Font use illustration and design to Select to "2-clause BSD license" or "free".  
 Font introduces can use this project included image files. and please notation "Licence", "Creater"
