@@ -92,7 +92,7 @@ http://www.slowgun.org/abc/ts12.html
 
 ##LICENSE About
 Please read Japanese licence text.  
-Font use illustration and design to Select to "2-clause BSD license" or "free".  
+Font use illustration and design to Select to "2-clause BSD license" or "daisy_ANM free font license"(original).  
 Font introduces can use this project included image files. and please notation "Licence", "Creater"
  and mean to "Have possibilities update, add new font and other. prease read original page.", and link this page.  
 Font file redistribution to please read Japanese licence text.  
