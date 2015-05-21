@@ -41,8 +41,9 @@ pqrstuvwxyz{|}‾
  イラスト・デザインに使用する場合、自由に使うことができます。ただし、責任は使用者が負うこととします。  
  ライセンスは予告なく変更される場合があります  
 
- 本フォント製品のライセンスは、姉妹フォントの[RuneAssignMN_Series_Font_free版][ghpages_index_RuneAssignMN_Series_Fonts]に準ずる  
- (フォント名を読み替えてあとは等しい)ものとします。  
+ 本フォント製品のライセンスは、  
+ 姉妹フォントの[RuneAssignMN_Series_Font_free版のライセンス][ghpages_index_RuneAssignMN_Series_Fonts_license]に準ずるものとします。  
+ (フォント名を読み替えてあとは等しい)  
  ライセンスの詳細は、そちらをお読みください。  
 
  ライセンスについて、よくわからない場合は、気軽に作者へ[メール(michinari.nukazawa@gmail.com)][mailto]にて、お問い合わせください。  
@@ -102,6 +103,7 @@ Font file redistribution to please read Japanese licence text.
 Develop by Michinari.Nukazawa, in Project "daisy bell".
 [ghpages_index]: http://michinarinukazawa.github.io/OlChikiAssignMN_Series_Fonts/
 [ghpages_index_RuneAssignMN_Series_Fonts]: http://michinarinukazawa.github.io/RuneAssignMN_Series_Fonts/
+[ghpages_index_RuneAssignMN_Series_Fonts_license]: http://michinarinukazawa.github.io/RuneAssignMN_Series_Fonts/#user-content-license
 [blog_article]: http://blog.michinari-nukazawa.com/
 [mailto]: mailto:michinari.nukazawa@gmail.com
 [pixiv_booth]: https://daisy-bell.booth.pm/
