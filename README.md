@@ -6,7 +6,7 @@ OlChikiAssignMN Series Fonts
 オル・チキ文字のフォントです。  
 イラストおよびデザイン向けに、簡単に使えるオル・チキ文字フォントとして作成しました。  
 商用可。  
-本フォントは[project daisy bell][pixiv_booth]によるフォント製品です。  
+本フォントは"[project daisy bell][pixiv_booth]"によるフォント製品です。  
 
 ラテン・アルファベットの"A〜z"にオル・チキ文字を割り当ててあります。  
 ふつうの英文にこのフォントを使用することで、オル・チキ文字で書かれた文章をデザインに使用することがとても簡単になります。  
@@ -104,3 +104,4 @@ Develop by Michinari.Nukazawa, in Project "daisy bell".
 [ghpages_index_RuneAssignMN_Series_Fonts]: http://michinarinukazawa.github.io/RuneAssignMN_Series_Fonts/
 [blog_article]: http://blog.michinari-nukazawa.com/
 [mailto]: mailto:michinari.nukazawa@gmail.com
+[pixiv_booth]: https://daisy-bell.booth.pm/
